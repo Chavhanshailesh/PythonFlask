@@ -20,3 +20,11 @@ flask_mysqldb:
 https://flask-mysqldb.readthedocs.io/en/latest/
 
 
+error_link:
+https://stackoverflow.com/questions/30032078/typeerror-init-takes-1-positional-argument-but-3-were-given
+
+
+sqlalcamy_link:
+https://www.tutorialspoint.com/flask/flask_sqlalchemy
+
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/
